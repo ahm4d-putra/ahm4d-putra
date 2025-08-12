@@ -1,4 +1,4 @@
-Hi! I'm Rizky Ahmad 👋
+#Hi! I'm Ahmad Putra Ramadhan👋#
 Saya pelajar SMK jurusan Rekayasa Perangkat Lunak yang lagi belajar coding! 🚀
 🎯 Tentang Saya
 
@@ -11,14 +11,14 @@ Saya pelajar SMK jurusan Rekayasa Perangkat Lunak yang lagi belajar coding! 🚀
 Show Image
 📂 Project Favorit
 
-🌐 Website Sekolah - Landing page SMK sederhana
-📱 To-Do App - Aplikasi manajemen tugas
-🎮 Snake Game - Game klasik pakai JavaScript
+🌐 Banned All Player - My first project 
+📱 Calculator - Kalkulator
+🎮 Simulasi Judi Online - Project Python pertama saya
 
 📞 Kontak
 
-📧 Email: rizky.ahmad@gmail.com
-📱 Instagram: @rizky_dev
+📧 Email: ahmad.putra494@smp.belajar.id
+📱 Instagram: @ahmaddd9_
 
 
 ⭐ "Masih belajar, tapi semangat!" ⭐
