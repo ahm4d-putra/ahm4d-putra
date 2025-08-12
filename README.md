@@ -4,7 +4,7 @@ Saya pelajar SMK jurusan Rekayasa Perangkat Lunak yang lagi belajar coding! 🚀
 
 📚 Siswa SMK SMKN 20 Jakarta kelas X RPL <br />
 💻 Lagi belajar HTML, CSS, JavaScript, PHP<br />
-🎮 Hobi: Gaming, Nonton anime, Musik<br />
+🎮 Hobi: Gaming, Main Komputer, Ngulik Codingan<br />
 📱 Dream job: Full Stack Web Developer
 
 📂 Project Favorit
