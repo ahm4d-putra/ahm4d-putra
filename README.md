@@ -7,8 +7,6 @@ Saya pelajar SMK jurusan Rekayasa Perangkat Lunak yang lagi belajar coding! 🚀
 🎮 Hobi: Gaming, Nonton anime, Musik<br />
 📱 Dream job: Full Stack Web Developer
 
-📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahm4d-putra&show_icons=true&theme=dark)
 📂 Project Favorit
 
 🌐 Banned All Player - My first project 
@@ -20,5 +18,7 @@ Saya pelajar SMK jurusan Rekayasa Perangkat Lunak yang lagi belajar coding! 🚀
 📧 Email: ahmad.putra494@smp.belajar.id
 📱 Instagram: @ahmaddd9_
 
-
-⭐ "Masih belajar, tapi semangat!" ⭐
+<br />
+📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahm4d-putra&show_icons=true&theme=dark)
+<br />⭐ "Masih belajar, tapi semangat!" ⭐
