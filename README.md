@@ -2,7 +2,7 @@ Hi! I'm Rizky Ahmad 👋
 Saya pelajar SMK jurusan Rekayasa Perangkat Lunak yang lagi belajar coding! 🚀
 🎯 Tentang Saya
 
-📚 Siswa SMK SMKN 1 Jakarta kelas XI RPL 2
+📚 Siswa SMK SMKN 20 Jakarta kelas X RPL <br />
 💻 Lagi belajar HTML, CSS, JavaScript, PHP
 🎮 Hobi: Gaming, Nonton anime, Musik
 📱 Dream job: Full Stack Web Developer
