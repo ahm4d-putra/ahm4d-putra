@@ -1,5 +1,5 @@
 *Hi! I'm Ahmad Putra Ramadhan👋*<br />
-Saya pelajar SMK jurusan Rekayasa Perangkat Lunak yang lagi belajar coding! 🚀
+Saya pelajar SMK jurusan Rekayasa Perangkat Lunak yang lagi belajar coding! 🚀<br />
 <br />🎯 Tentang Saya
 
 📚 Siswa SMK SMKN 20 Jakarta kelas X RPL <br />
@@ -9,13 +9,13 @@ Saya pelajar SMK jurusan Rekayasa Perangkat Lunak yang lagi belajar coding! 🚀
 
 📂 Project Favorit
 
-🌐 Banned All Player - My first project 
-📱 Calculator - Kalkulator
+🌐 Banned All Player - My first project <br />
+📱 Calculator - Kalkulator <br />
 🎮 Simulasi Judi Online - Project Python pertama saya
 
 📞 Kontak
 
-📧 Email: ahmad.putra494@smp.belajar.id
+📧 Email: ahmad.putra494@smp.belajar.id <br />
 📱 Instagram: @ahmaddd9_
 
 
