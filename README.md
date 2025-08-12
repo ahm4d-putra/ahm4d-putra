@@ -18,8 +18,5 @@ Saya pelajar SMK jurusan Rekayasa Perangkat Lunak yang lagi belajar coding! 🚀
 📧 Email: ahmad.putra494@smp.belajar.id
 📱 Instagram: @ahmaddd9_
 
-<br />
-📊 GitHub Stats<br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahm4d-putra&show_icons=true&theme=dark)
 
-<br />⭐ "Masih belajar, tapi semangat!" ⭐
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahm4d-putra&show_icons=true&theme=dark)
