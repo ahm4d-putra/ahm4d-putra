@@ -20,6 +20,6 @@ Saya pelajar SMK jurusan Rekayasa Perangkat Lunak yang lagi belajar coding! 🚀
 
 <br />
 📊 GitHub Stats<br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifki_dev&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahm4d-putra&show_icons=true&theme=dark)
 
 <br />⭐ "Masih belajar, tapi semangat!" ⭐
