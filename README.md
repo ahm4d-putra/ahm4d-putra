@@ -9,9 +9,8 @@ Saya pelajar SMK jurusan Rekayasa Perangkat Lunak yang lagi belajar coding! 🚀
 
 📂 Project Favorit
 
-🌐 Banned All Player - My first project <br />
 📱 Calculator - Kalkulator <br />
-🎮 Simulasi Judi Online - Project Python pertama saya
+  Study Timer - Python
 
 📞 Kontak
 
