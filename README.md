@@ -15,8 +15,4 @@ Lifelong Learner, currently studying at SMK N 20 Jakarta
     - :mailbox: How to reach me: <a href="mailto:ahmadkhasimiri@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: She/Her. </br> </br>
 <p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
+
