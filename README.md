@@ -13,6 +13,6 @@ Lifelong Learner, currently studying at SMK N 20 Jakarta
     - :keyboard: I’m currently learning Python, Js, And PhP. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:ahmadkhasimiri@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br> </br>
+    - :cloud: Pronouns: Boy. </br> </br>
 <p>
 
