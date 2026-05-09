@@ -64,11 +64,11 @@ motto     : "keep learn"
 
 | Project | Stack | Description |
 |---|---|---|
-| 🌐 **[ahm4d.portfolio](https://ahmad-putra-ramadhan.vercel.app)** | React · Vite · Tailwind · Framer Motion | Personal portfolio with Interactive Playground |
-| ⬇️ **[tiktok-downloader](https://github.com/ahm4d-putra/tiktok-downloader)** | Node.js · Express · Vanilla JS | Web app download video TikTok tanpa watermark + metadata |
-| 🤖 **[Discord-Tiktok-Downloader](https://github.com/ahm4d-putra/Discord-Tiktok-Downloader)** | Python · Discord.py | Discord bot download TikTok + fitur moderasi server lengkap |
-| 🔳 **[qrcode-python](https://github.com/ahm4d-putra/qrcode-python)** | Python · Tkinter · OpenCV | QR Code generator desktop app dengan dark mode & batch processing |
-| 🖐️ **[hand-gesture](https://github.com/ahm4d-putra/hand-gesture)** | Python · OpenCV · MediaPipe | Real-time hand gesture recognition via webcam |
+|  **[ahm4d.portfolio](https://ahmad-putra-ramadhan.vercel.app)** | React · Vite · Tailwind · Framer Motion | Personal portfolio with Interactive Playground |
+|  **[tiktok-downloader](https://github.com/ahm4d-putra/tiktok-downloader)** | Node.js · Express · Vanilla JS | Web app download video TikTok tanpa watermark + metadata |
+|  **[Discord-Tiktok-Downloader](https://github.com/ahm4d-putra/Discord-Tiktok-Downloader)** | Python · Discord.py | Discord bot download TikTok + fitur moderasi server lengkap |
+|  **[qrcode-python](https://github.com/ahm4d-putra/qrcode-python)** | Python · Tkinter · OpenCV | QR Code generator desktop app dengan dark mode & batch processing |
+|  **[hand-gesture](https://github.com/ahm4d-putra/hand-gesture)** | Python · OpenCV · MediaPipe | Real-time hand gesture recognition via webcam |
 
 ---
 
