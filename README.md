@@ -48,6 +48,7 @@ motto     : "keep learn"
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Tools**
 
@@ -63,9 +64,11 @@ motto     : "keep learn"
 
 | Project | Stack | Description |
 |---|---|---|
-| 🌐 **[ahm4d.portfolio](https://ahm4d-portfolio.netlify.app)** | React · Vite · Tailwind · Framer Motion | Personal portfolio with Interactive Playground |
-
-> *More projects loading... stay tuned.*
+| 🌐 **[ahm4d.portfolio](https://ahmad-putra-ramadhan.vercel.app)** | React · Vite · Tailwind · Framer Motion | Personal portfolio with Interactive Playground |
+| ⬇️ **[tiktok-downloader](https://github.com/ahm4d-putra/tiktok-downloader)** | Node.js · Express · Vanilla JS | Web app download video TikTok tanpa watermark + metadata |
+| 🤖 **[Discord-Tiktok-Downloader](https://github.com/ahm4d-putra/Discord-Tiktok-Downloader)** | Python · Discord.py | Discord bot download TikTok + fitur moderasi server lengkap |
+| 🔳 **[qrcode-python](https://github.com/ahm4d-putra/qrcode-python)** | Python · Tkinter · OpenCV | QR Code generator desktop app dengan dark mode & batch processing |
+| 🖐️ **[hand-gesture](https://github.com/ahm4d-putra/hand-gesture)** | Python · OpenCV · MediaPipe | Real-time hand gesture recognition via webcam |
 
 ---
 
